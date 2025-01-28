@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b1419ceb.css",
-    "main.js": "/static/js/main.993a3534.js",
+    "main.js": "/static/js/main.10d2c48a.js",
     "static/js/453.c86fdebc.chunk.js": "/static/js/453.c86fdebc.chunk.js",
     "static/media/bau-cua-vip52.png": "/static/media/bau-cua-vip52.c255f39d93b38fc4b233.png",
     "static/media/dai-duong-vip52.png": "/static/media/dai-duong-vip52.52ee837871aa0a452339.png",
@@ -24,7 +24,6 @@
     "static/media/cong-game-bai-uy-tin-vip52-2-scaled.webp": "/static/media/cong-game-bai-uy-tin-vip52-2-scaled.20fb64f77970735dd596.webp",
     "static/media/lien-he-vip52-qua-hotline.png": "/static/media/lien-he-vip52-qua-hotline.f4bf730005d649695d04.png",
     "static/media/Logo_son.png": "/static/media/Logo_son.e105a607c41572afa8be.png",
-    "static/media/cong-game-bai-uy-tin-vip52-1-scaled.webp": "/static/media/cong-game-bai-uy-tin-vip52-1-scaled.82df58015bae4c5a1eed.webp",
     "static/media/game-bai-vip52-1.webp": "/static/media/game-bai-vip52-1.0ee23ba910a089274939.webp",
     "static/media/the-thao-vip52-1.webp": "/static/media/the-thao-vip52-1.ac4a2834ceaae906a4a8.webp",
     "static/media/ban-ca-vip52-1.webp": "/static/media/ban-ca-vip52-1.e5e50310841f464c6085.webp",
@@ -34,6 +33,7 @@
     "static/media/tai-xiu-vip52-1.webp": "/static/media/tai-xiu-vip52-1.d262c8b22a2b919c1b91.webp",
     "static/media/no-hu-vip52-2.webp": "/static/media/no-hu-vip52-2.42f5df69ee7b65abc49f.webp",
     "static/media/san-pham-cuoc-tai-cong-game-vip52.webp": "/static/media/san-pham-cuoc-tai-cong-game-vip52.5376f08747c040b277d8.webp",
+    "static/media/cong-game-bai-uy-tin-vip52-1-scaled.webp": "/static/media/cong-game-bai-uy-tin-vip52-1-scaled.e643040239149237ba1b.webp",
     "static/media/lo-de-vip52-2.webp": "/static/media/lo-de-vip52-2.92e0d7af24fabc2b156e.webp",
     "static/media/anh-nen-vip52.webp": "/static/media/anh-nen-vip52.2c67feb7260f5f7f460f.webp",
     "static/media/giftcode-vip52-2.webp": "/static/media/giftcode-vip52-2.4ff966dde2d460603fd0.webp",
@@ -109,11 +109,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/static/media/roboto-greek-ext-400-normal.16eb83b4a3b1ea994243.woff",
     "index.html": "/index.html",
     "main.b1419ceb.css.map": "/static/css/main.b1419ceb.css.map",
-    "main.993a3534.js.map": "/static/js/main.993a3534.js.map",
+    "main.10d2c48a.js.map": "/static/js/main.10d2c48a.js.map",
     "453.c86fdebc.chunk.js.map": "/static/js/453.c86fdebc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1419ceb.css",
-    "static/js/main.993a3534.js"
+    "static/js/main.10d2c48a.js"
   ]
 }
